@@ -7,4 +7,3 @@ class CreateReviews < ActiveRecord::Migration[6.1]
       t.timestamps
     end
   end
-end
